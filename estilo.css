@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(238, 255, 1, 0.645);
+}
+#titulo {
+    font-size: 80px;
+    font-style: italic;
+    color: rgb(254, 221, 2);
+    background-color: rgb(0, 0, 0);
+}
+#inf{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(254, 221, 2);
+    background-color: rgb(0, 0, 0);
+}
+input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 300px; 
+    padding: 20px;
+    font-size: 30px;
+}
+label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 300px; 
+    font-size: 50px; 
+  }
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 250px; 
+    font-size: 25px; 
+}
+#resultado {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px; 
+    color: rgb(254, 221, 2);
+    background-color: rgb(0, 0, 0);
+  }
+#alem{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px; 
+    color: rgb(254, 221, 2);
+    background-color: rgb(0, 0, 0);
+}
+#resultadoperso{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px; 
+    color: rgb(254, 221, 2);
+    background-color: rgb(0, 0, 0);
+}
